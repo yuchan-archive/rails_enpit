@@ -1,0 +1,7 @@
+deploy:
+  provider: heroku
+  api_key:
+    secure: Ln+jWLRXEXQqftLHaRQ7kCIDtQytKvSRpzNFa+86VrolU3AN+QnYfYIfb3IAwfWBF26icG9TaYnBm+hlibouDTpf1iyu2IN8F6qDWM/ifYVJzBUbG2DmXj2tgaQc6K4awNmfImMirhLdy+3OYzEyWfgcsg3ZBvg+oXjn6x+oMlI=
+  app: glacial-bastion-3589
+  on:
+    repo: yuchan/rails_enpit
